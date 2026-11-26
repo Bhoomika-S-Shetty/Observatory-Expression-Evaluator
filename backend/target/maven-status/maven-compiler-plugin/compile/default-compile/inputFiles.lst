@@ -1,0 +1,16 @@
+/app/applet/backend/src/main/java/com/observatory/model/ExpressionNode.java
+/app/applet/backend/src/main/java/com/observatory/model/Token.java
+/app/applet/backend/src/main/java/com/observatory/engine/ExpressionEvaluator.java
+/app/applet/backend/src/main/java/com/observatory/model/ValidationResult.java
+/app/applet/backend/src/main/java/com/observatory/ObservatoryApplication.java
+/app/applet/backend/src/main/java/com/observatory/controller/ExpressionController.java
+/app/applet/backend/src/main/java/com/observatory/exception/GlobalExceptionHandler.java
+/app/applet/backend/src/main/java/com/observatory/engine/ExpressionParser.java
+/app/applet/backend/src/main/java/com/observatory/engine/ExpressionValidator.java
+/app/applet/backend/src/main/java/com/observatory/model/TraceStep.java
+/app/applet/backend/src/main/java/com/observatory/engine/Tokenizer.java
+/app/applet/backend/src/main/java/com/observatory/model/EvaluationResponse.java
+/app/applet/backend/src/main/java/com/observatory/service/ExpressionService.java
+/app/applet/backend/src/main/java/com/observatory/model/EvaluationRequest.java
+/app/applet/backend/src/main/java/com/observatory/engine/ExpressionTreeBuilder.java
+/app/applet/backend/src/main/java/com/observatory/exception/ExpressionException.java
